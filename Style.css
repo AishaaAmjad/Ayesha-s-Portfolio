@@ -825,7 +825,7 @@ footer.show-animate .animate.scroll {
 
     .home-imgHover {
         pointer-events: none;
-        background: var(--bg-color);
+        background: var(--second-bg-color);
         opacity: .6;
     }
     
